@@ -1,0 +1,11 @@
+{
+ "argv": [
+  "/usr/bin/env",
+  "bash",
+  "$kernel_start_script",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "$display_name",
+ "language": "python"
+}

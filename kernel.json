@@ -1,0 +1,11 @@
+{
+  "argv": [
+    "/usr/bin/env",
+    "bash",
+    "/home/chronos/user/Downloads/code/jutest/kernelstart.sh",
+    "-f",
+    "{connection_file}"
+  ],
+  "display_name": "dickpenis",
+  "language": "python"
+}
